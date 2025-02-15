@@ -1,6 +1,6 @@
 🚀 Projeto
 
-Este projeto é composto por uma API em Laravel, uma aplicação web em Laravel e outra aplicação em React, todos conectados a um banco de dados PostgreSQL rodando em um contêiner Docker.
+Este projeto é composto por uma API em Laravel, uma aplicação web em Html e outra aplicação em React, todos conectados a um banco de dados PostgreSQL rodando em um contêiner Docker.
 
 📋 Requisitos
 
